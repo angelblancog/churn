@@ -1,0 +1,11 @@
+*.venv
+*.xlsx
+*.ppt
+__pycache__/
+.ipynb_checkpoints
+.vscode
+*.zip
+*.tar.gz
+*.gz
+*.rar
+.git

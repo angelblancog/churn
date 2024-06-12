@@ -1,0 +1,20 @@
+artifact_path: RepeatedEditedNearestNeighbours_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.0
+mlflow_version: 2.11.3
+model_size_bytes: 6082050
+model_uuid: f8f941e500854497b4623d4d06e4c099
+run_id: ccf696ec22b74413bcae81ddbd2c19f1
+utc_time_created: '2024-05-31 15:51:28.585559'

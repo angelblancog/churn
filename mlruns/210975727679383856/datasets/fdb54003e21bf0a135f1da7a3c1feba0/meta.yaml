@@ -1,0 +1,20 @@
+digest: 897287cf
+name: dataset
+profile: '{"num_rows": 5634, "num_elements": 101412}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "SeniorCitizen", "required":
+  true}, {"type": "string", "name": "Partner", "required": true}, {"type": "string",
+  "name": "Dependents", "required": true}, {"type": "long", "name": "tenure", "required":
+  true}, {"type": "string", "name": "PhoneService", "required": true}, {"type": "string",
+  "name": "MultipleLines", "required": true}, {"type": "string", "name": "InternetService",
+  "required": true}, {"type": "string", "name": "OnlineSecurity", "required": true},
+  {"type": "string", "name": "OnlineBackup", "required": true}, {"type": "string",
+  "name": "DeviceProtection", "required": true}, {"type": "string", "name": "TechSupport",
+  "required": true}, {"type": "string", "name": "StreamingTV", "required": true},
+  {"type": "string", "name": "StreamingMovies", "required": true}, {"type": "string",
+  "name": "Contract", "required": true}, {"type": "string", "name": "PaperlessBilling",
+  "required": true}, {"type": "string", "name": "PaymentMethod", "required": true},
+  {"type": "double", "name": "MonthlyCharges", "required": true}, {"type": "double",
+  "name": "TotalCharges", "required": true}]}'
+source: '{"tags": {"mlflow.user": "angel", "mlflow.source.name": "/home/angel/master/tfm/churn/.venv/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

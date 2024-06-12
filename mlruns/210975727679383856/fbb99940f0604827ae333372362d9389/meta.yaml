@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/fbb99940f0604827ae333372362d9389/artifacts
+end_time: 1717171543515
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: fbb99940f0604827ae333372362d9389
+run_name: BorderlineSMOTE_model_FT
+run_uuid: fbb99940f0604827ae333372362d9389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171539762
+status: 3
+tags: []
+user_id: angel

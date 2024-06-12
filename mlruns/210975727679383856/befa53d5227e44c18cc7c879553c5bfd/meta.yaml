@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/befa53d5227e44c18cc7c879553c5bfd/artifacts
+end_time: 1717170746836
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: befa53d5227e44c18cc7c879553c5bfd
+run_name: SMOTEENN_model
+run_uuid: befa53d5227e44c18cc7c879553c5bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170743634
+status: 3
+tags: []
+user_id: angel

@@ -1,0 +1,20 @@
+artifact_path: OneSidedSelection_model_FT
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.0
+mlflow_version: 2.11.3
+model_size_bytes: 26229353
+model_uuid: cba1953d8b494caea88e75d219862f2a
+run_id: 1d7c6150711240bc8208cab79e40227f
+utc_time_created: '2024-05-31 16:28:16.187363'

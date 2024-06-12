@@ -1,0 +1,10 @@
+ColumnTransformer(transformers=[('num', StandardScaler(),
+                                 ['SeniorCitizen', 'tenure', 'MonthlyCharges',
+                                  'TotalCharges']),
+                                ('cat', OneHotEncoder(),
+                                 ['Partner', 'Dependents', 'PhoneService',
+                                  'MultipleLines', 'InternetService',
+                                  'OnlineSecurity', 'OnlineBackup',
+                                  'DeviceProtection', 'TechSupport',
+                                  'StreamingTV', 'StreamingMovies', 'Contract',
+                                  'PaperlessBilling', 'PaymentMethod'])])

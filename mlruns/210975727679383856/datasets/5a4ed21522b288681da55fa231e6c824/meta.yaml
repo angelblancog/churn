@@ -1,0 +1,7 @@
+digest: '57985318'
+name: y_training_AllKNN_dataset
+profile: '{"num_rows": 5634, "num_elements": 5634}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Churn", "required": true}]}'
+source: '{"tags": {"mlflow.user": "angel", "mlflow.source.name": "/home/angel/master/tfm/churn/.venv/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

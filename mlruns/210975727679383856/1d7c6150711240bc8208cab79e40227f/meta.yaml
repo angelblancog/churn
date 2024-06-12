@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/1d7c6150711240bc8208cab79e40227f/artifacts
+end_time: 1717172898371
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 1d7c6150711240bc8208cab79e40227f
+run_name: OneSidedSelection_model_FT
+run_uuid: 1d7c6150711240bc8208cab79e40227f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172895330
+status: 3
+tags: []
+user_id: angel

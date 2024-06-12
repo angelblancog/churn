@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/60acaab5430841d5b3763e127ce4e3dd/artifacts
+end_time: 1717171164850
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 60acaab5430841d5b3763e127ce4e3dd
+run_name: ADASYN_model_FT
+run_uuid: 60acaab5430841d5b3763e127ce4e3dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171160694
+status: 3
+tags: []
+user_id: angel

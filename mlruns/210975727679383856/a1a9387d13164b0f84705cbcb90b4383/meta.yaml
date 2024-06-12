@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/a1a9387d13164b0f84705cbcb90b4383/artifacts
+end_time: 1717170634482
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: a1a9387d13164b0f84705cbcb90b4383
+run_name: base_model_no_techniques_FT
+run_uuid: a1a9387d13164b0f84705cbcb90b4383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170620053
+status: 3
+tags: []
+user_id: angel

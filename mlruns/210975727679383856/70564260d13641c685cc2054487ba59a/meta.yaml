@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/70564260d13641c685cc2054487ba59a/artifacts
+end_time: 1717170638773
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 70564260d13641c685cc2054487ba59a
+run_name: SMOTE_model
+run_uuid: 70564260d13641c685cc2054487ba59a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170635533
+status: 3
+tags: []
+user_id: angel

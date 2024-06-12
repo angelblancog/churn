@@ -1,0 +1,10 @@
+[('preprocessor', ColumnTransformer(transformers=[('num', StandardScaler(),
+                                 ['SeniorCitizen', 'tenure', 'MonthlyCharges',
+                                  'TotalCharges']),
+                                ('cat', OneHotEncoder(),
+                                 ['Partner', 'Dependents', 'PhoneService',
+                                  'MultipleLines', 'InternetService',
+                                  'OnlineSecurity', 'OnlineBackup',
+                                  'DeviceProtection', 'TechSupport',
+                                  'StreamingTV', 'StreamingMovies', 'Contract',
+                                  'PaperlessBilling', 'PaymentMethod'])])), ('resampler', <__main__.Resampler object at 0x7f1fc41113f0>), ('model', RandomForestClassifier(random_state=34))]

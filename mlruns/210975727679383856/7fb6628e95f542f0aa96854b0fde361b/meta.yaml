@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/7fb6628e95f542f0aa96854b0fde361b/artifacts
+end_time: 1717171941896
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 7fb6628e95f542f0aa96854b0fde361b
+run_name: KMeansSMOTE_model_FT
+run_uuid: 7fb6628e95f542f0aa96854b0fde361b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171938246
+status: 3
+tags: []
+user_id: angel

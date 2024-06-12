@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/799986b1f0bc4505b54822a4bad31d61/artifacts
+end_time: 1717172779859
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 799986b1f0bc4505b54822a4bad31d61
+run_name: CondensedNearestNeighbour_model_FT
+run_uuid: 799986b1f0bc4505b54822a4bad31d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172777149
+status: 3
+tags: []
+user_id: angel

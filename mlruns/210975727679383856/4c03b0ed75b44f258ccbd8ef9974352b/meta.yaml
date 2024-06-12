@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/4c03b0ed75b44f258ccbd8ef9974352b/artifacts
+end_time: 1717170678825
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 4c03b0ed75b44f258ccbd8ef9974352b
+run_name: ClusterCentroids_model
+run_uuid: 4c03b0ed75b44f258ccbd8ef9974352b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170675541
+status: 3
+tags: []
+user_id: angel

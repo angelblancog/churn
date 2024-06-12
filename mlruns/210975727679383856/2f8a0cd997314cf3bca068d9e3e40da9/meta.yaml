@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/2f8a0cd997314cf3bca068d9e3e40da9/artifacts
+end_time: 1717172696716
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 2f8a0cd997314cf3bca068d9e3e40da9
+run_name: AllKNN_model_FT
+run_uuid: 2f8a0cd997314cf3bca068d9e3e40da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172693888
+status: 3
+tags: []
+user_id: angel

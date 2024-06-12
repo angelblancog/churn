@@ -1,0 +1,20 @@
+artifact_path: RandomUnderSampler_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.0
+mlflow_version: 2.11.3
+model_size_bytes: 12157337
+model_uuid: 89fcd3435e8d46e7b33f7916707c96ec
+run_id: 2ce117d0883544a9808fddf3458103ea
+utc_time_created: '2024-05-31 15:51:02.726787'

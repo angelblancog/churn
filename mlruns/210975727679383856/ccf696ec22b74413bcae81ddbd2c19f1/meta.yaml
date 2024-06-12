@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/ccf696ec22b74413bcae81ddbd2c19f1/artifacts
+end_time: 1717170690647
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: ccf696ec22b74413bcae81ddbd2c19f1
+run_name: RepeatedEditedNearestNeighbours_model
+run_uuid: ccf696ec22b74413bcae81ddbd2c19f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170687585
+status: 3
+tags: []
+user_id: angel

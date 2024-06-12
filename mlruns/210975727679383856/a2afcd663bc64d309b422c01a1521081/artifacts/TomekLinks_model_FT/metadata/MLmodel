@@ -1,0 +1,20 @@
+artifact_path: TomekLinks_model_FT
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.0
+mlflow_version: 2.11.3
+model_size_bytes: 37156021
+model_uuid: eeef38e3cd1d405a8403376873b22a5b
+run_id: a2afcd663bc64d309b422c01a1521081
+utc_time_created: '2024-05-31 16:17:09.107880'

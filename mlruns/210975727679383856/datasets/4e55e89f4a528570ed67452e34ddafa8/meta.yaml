@@ -1,0 +1,7 @@
+digest: 2ebde1a3
+name: y_training_SMOTE_dataset
+profile: '{"num_rows": 8278, "num_elements": 8278}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Churn", "required": true}]}'
+source: '{"tags": {"mlflow.user": "angel", "mlflow.source.name": "/home/angel/master/tfm/churn/.venv/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

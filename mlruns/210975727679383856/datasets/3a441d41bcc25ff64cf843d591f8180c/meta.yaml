@@ -1,0 +1,7 @@
+digest: f7c226f3
+name: y_training_RepeatedEditedNearestNeighbours_dataset
+profile: '{"num_rows": 3443, "num_elements": 3443}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Churn", "required": true}]}'
+source: '{"tags": {"mlflow.user": "angel", "mlflow.source.name": "/home/angel/master/tfm/churn/.venv/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

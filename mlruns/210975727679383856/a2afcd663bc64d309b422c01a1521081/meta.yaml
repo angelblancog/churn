@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/a2afcd663bc64d309b422c01a1521081/artifacts
+end_time: 1717172231543
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: a2afcd663bc64d309b422c01a1521081
+run_name: TomekLinks_model_FT
+run_uuid: a2afcd663bc64d309b422c01a1521081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172228244
+status: 3
+tags: []
+user_id: angel

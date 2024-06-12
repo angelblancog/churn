@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/1ec58f0a8b534d43befdb660625f6b40/artifacts
+end_time: 1717170647100
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 1ec58f0a8b534d43befdb660625f6b40
+run_name: RandomOverSampler_model
+run_uuid: 1ec58f0a8b534d43befdb660625f6b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170643776
+status: 3
+tags: []
+user_id: angel

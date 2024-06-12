@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/4d74fb9055f244ddb5796b1a92adda78/artifacts
+end_time: 1717170668891
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 4d74fb9055f244ddb5796b1a92adda78
+run_name: NearMiss_model
+run_uuid: 4d74fb9055f244ddb5796b1a92adda78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170665526
+status: 3
+tags: []
+user_id: angel

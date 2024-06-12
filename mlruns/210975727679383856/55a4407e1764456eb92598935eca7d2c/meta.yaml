@@ -1,0 +1,15 @@
+artifact_uri: file:///home/angel/master/tfm/churn/mlruns/210975727679383856/55a4407e1764456eb92598935eca7d2c/artifacts
+end_time: 1717171754756
+entry_point_name: ''
+experiment_id: '210975727679383856'
+lifecycle_stage: active
+run_id: 55a4407e1764456eb92598935eca7d2c
+run_name: SVMSMOTE_model_FT
+run_uuid: 55a4407e1764456eb92598935eca7d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171750703
+status: 3
+tags: []
+user_id: angel
